@@ -1,10 +1,6 @@
 fastapi
 uvicorn
-torch
 transformers
-numpy
+torch
 speechrecognition
 pydantic
-python-multipart
-pydub
-ffmpeg-python
