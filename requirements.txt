@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+numpy
+speechrecognition
+pydantic
+python-multipart
+pydub
+ffmpeg-python
